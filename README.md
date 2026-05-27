@@ -1,14 +1,12 @@
 
-<p align="center">
-  <!-- If you upload banner.png to your repository root, this relative link will render it beautifully -->
-  <img src="banner.png" alt="Antony George Header Banner" width="100%" style="border-radius: 8px;">
-</p>
 <h1 align="center">Hi 👋, I'm Antony George</h1>
+
 <p align="center">
   <a href="https://github.com/mamboo108">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Web+Developer;Frontend+Enthusiast;SEO+Learner" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/antony-george-mampilly-831996292" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn Badge" />
@@ -23,15 +21,22 @@
     <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email Badge" />
   </a>
 </p>
+
 <hr />
+
 ## 🚀 About Me
+
 I am a passionate **Computer Science Student** and **Web Developer** dedicated to building clean, modern, and user-friendly web applications. I love exploring the latest frontend technologies, working with APIs, and learning full-stack development. I am also currently diving deep into **SEO (Search Engine Optimization)** to build web projects that are not only functional but also highly visible and optimized for search.
+
 - 🎓 **Education:** Pursuing a Bachelor's Degree in Computer Science
 - 🌱 **Currently Learning:** Next.js, advanced API design, and search engine optimization
 - ⚡ **Interests:** Frontend design systems, responsive web design, and full-stack integration
 - 💬 **Ask me about:** HTML, CSS, JavaScript, and React styling
+
 <br />
+
 ## 🛠️ Tech Stack
+
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
@@ -67,8 +72,11 @@ I am a passionate **Computer Science Student** and **Web Developer** dedicated t
     </td>
   </tr>
 </table>
+
 <br />
+
 ## 📂 Projects
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -93,40 +101,31 @@ I am a passionate **Computer Science Student** and **Web Developer** dedicated t
     </td>
   </tr>
 </table>
+
 <br />
+
 ## 💼 Experience & Internships
+
 > ### 🚀 Future Internship / Role
 > **Company Name** | *Location / Remote*  
 > *Duration*  
 > - Space reserved for your upcoming professional roles and internships.  
 > - Once started, you can list your projects, contributions, and tools used here.
 > - Highlight key metrics, performance updates, or responsive designs implemented.
+
 > ### 💻 Independent Developer & Student
 > **Self-Directed Projects** | *Learning & Building*  
 > *2024 - Present*  
 > - Building custom full-stack web applications to hone software engineering skills.
 > - Integrating third-party APIs and managing state with React.
 > - Exploring SEO techniques to improve organic visibility and indexing of web projects.
+
 <br />
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/mamboo108">
-    <img src="https://github-readme-stats.vercel.app/api?username=mamboo108&show_icons=true&theme=tokyonight&locale=en" alt="Antony's GitHub Stats" height="195" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/mamboo108">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamboo108&layout=compact&theme=tokyonight" alt="Antony's Top Languages" height="165" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mamboo108">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamboo108&theme=tokyonight" alt="Antony's GitHub Streak" height="165" />
-  </a>
-</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider Line" />
 </p>
+
 <p align="center">
   <i>Made with ❤️ by <a href="https://github.com/mamboo108">Antony George</a></i>
 </p>
-
