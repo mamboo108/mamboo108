@@ -80,47 +80,40 @@ I am a passionate **Computer Science Student** and **Web Developer** dedicated t
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 Project Title One</h3>
-      <p>A modern and responsive web application built to address a specific user need. Describe the key features, architecture, and what makes this project unique.</p>
+      <h3>🔍 Revu: Company Culture Analyzer</h3>
+      <p>An AI-powered analytics platform designed to evaluate and understand organizational environments. By leveraging a custom Retrieval-Augmented Generation (RAG) pipeline, the system processes workspace data to provide accurate, context-aware insights into company culture, sentiment, and dynamics.</p>
+      <ul>
+        <li><b>Contextual Insights:</b> Advanced RAG architecture for precise data retrieval.</li>
+        <li><b>Backend Framework:</b> Lightweight and scalable web architecture built with Python and Flask.</li>
+        <li><b>LLM Integration:</b> Powered by the Gemini API for state-of-the-art semantic understanding.</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini" />
       </p>
-      <a href="https://github.com/mamboo108" target="_blank"><b>View Repository ➜</b></a>
+      <a href="https://github.com/mamboo108/Revu" target="_blank"><b>View Repository ➜</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 Project Title Two</h3>
-      <p>An API-driven dashboard or system that showcases data retrieval, state management, and clean user experience. Optimize it for performance and search discoverability.</p>
+      <h3>🛡️ Quishy: Multi-Stage QR Phishing Detection System</h3>
+      <p>An advanced, ML-powered cybersecurity tool designed to defend against the rising threat of QR code phishing (Quishing). Unlike standard scanners, Quishy employs a multi-stage verification pipeline that inspects both the physical visual markers of the QR code and the underlying digital network payloads to flag malicious intent before user exposure.</p>
+      <ul>
+        <li><b>Multi-Stage Detection:</b> Dual-layer defense mechanism analyzing both structural anomalies and URL reputations.</li>
+        <li><b>Machine Learning Engine:</b> Powered by a Random Forest Classifier optimized for high-precision phishing detection.</li>
+        <li><b>Core Stack:</b> Built using Python with specialized libraries for image processing and predictive data modeling.</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+        <img src="https://img.shields.io/badge/Cybersecurity-101010?style=flat-square" alt="Cybersecurity" />
       </p>
-      <a href="https://github.com/mamboo108" target="_blank"><b>View Repository ➜</b></a>
+      <a href="https://github.com/mamboo108/Quishy" target="_blank"><b>View Repository ➜</b></a>
     </td>
   </tr>
 </table>
 
 <br />
 
-## 💼 Experience & Internships
-
-> ### 🚀 Future Internship / Role
-> **Company Name** | *Location / Remote*  
-> *Duration*  
-> - Space reserved for your upcoming professional roles and internships.  
-> - Once started, you can list your projects, contributions, and tools used here.
-> - Highlight key metrics, performance updates, or responsive designs implemented.
-
-> ### 💻 Independent Developer & Student
-> **Self-Directed Projects** | *Learning & Building*  
-> *2024 - Present*  
-> - Building custom full-stack web applications to hone software engineering skills.
-> - Integrating third-party APIs and managing state with React.
-> - Exploring SEO techniques to improve organic visibility and indexing of web projects.
-
-<br />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider Line" />
