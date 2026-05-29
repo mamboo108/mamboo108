@@ -92,7 +92,7 @@ I am a passionate **Computer Science Student** and **Web Developer** dedicated t
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
         <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini" />
       </p>
-      <a href="https://github.com/mamboo108/Revu" target="_blank"><b>View Repository ➜</b></a>
+      <a href="https://github.com/mamboo108/company_analyzer2" target="_blank"><b>View Repository ➜</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ Quishy: Multi-Stage QR Phishing Detection System</h3>
@@ -107,7 +107,7 @@ I am a passionate **Computer Science Student** and **Web Developer** dedicated t
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
         <img src="https://img.shields.io/badge/Cybersecurity-101010?style=flat-square" alt="Cybersecurity" />
       </p>
-      <a href="https://github.com/mamboo108/Quishy" target="_blank"><b>View Repository ➜</b></a>
+      <a href="https://github.com/mamboo108/qr-phishing-detection" target="_blank"><b>View Repository ➜</b></a>
     </td>
   </tr>
 </table>
